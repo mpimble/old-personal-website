@@ -2,4 +2,4 @@
 
 This is on old personal website that I built to teach myself React.
 
-New personal website soming soon!
+For my current website, visit mpimble.github.io
